@@ -23,7 +23,7 @@ setup(
     keywords="showrss torrent download",
     url="http://github.com/david-moran/showrssdownloader",
     packages=['showRSSDownloader'],
-    long_description=read('README.rst'),
+    long_description=read('README.md'),
     install_requires=requirements('requirements.txt'),
     entry_points = {
         'console_scripts': [
